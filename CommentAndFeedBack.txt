@@ -1,0 +1,3 @@
+1. I have covvered one generic case (e2e), but some unclaritity there related to user story e.g. "answers updated in the final graphs", priority critical realted to which dependencies
+2. I create a seperate class for execution for test cases only, Annotion @Test can differentiate each test case
+3. This exsiting case be reuse for other scenarios.#
